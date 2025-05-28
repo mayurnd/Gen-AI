@@ -1,0 +1,7 @@
+streamlit
+whisper
+nltk
+gspread
+pandas
+google-auth
+SpeechRecognition
